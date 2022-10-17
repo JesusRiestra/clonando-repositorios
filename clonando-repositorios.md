@@ -10,6 +10,8 @@ Clonar repositorio (remoto a local) --> **git clone _enlacedelrepositorio_**
 
 [Comando de vinculación al segundo repositorio remoto](https://i.imgur.com/uF5QcAm.png)
 
+[Página principal del segundo repositorio creado en Github](https://i.imgur.com/XBqf8IF.png)
+
 
 
 
