@@ -6,7 +6,7 @@ Clonar repositorio (remoto a local) --> **git clone _enlacedelrepositorio_**
 
 [Comando de vinculación al primer repositorio remoto](https://i.imgur.com/QJrJTtW.png) --> Al añadir el repositorio local **primer-repositorio** con _add_, este se vincula con el enlace especificado despúes (repositorio virtual).
 
-[Captura 3](https://i.imgur.com/YKLERXQ.png)
+[Página principal del primer repositorio creado en Github](https://i.imgur.com/YKLERXQ.png)
 
 
 
